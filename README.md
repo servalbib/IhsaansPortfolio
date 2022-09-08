@@ -1,7 +1,7 @@
 # Portfolio
 
 This portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show case my projects !
-[Live Heroku Development](https://servalbib.github.io/IhsaansPortfolio/)
+[Live Server Website](https://servalbib.github.io/IhsaansPortfolio/)
 ![image](![PortfolioImg](https://user-images.githubusercontent.com/108005917/189031075-3067b23f-f58f-48a7-93b5-5c73859472d5.jpg)
 
 ## Technologies Used
